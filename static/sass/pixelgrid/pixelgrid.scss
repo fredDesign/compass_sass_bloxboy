@@ -1,0 +1,315 @@
+/* 960 Grid System ~ Core CSS.
+ * Learn more ~ http://960.gs/
+ * *
+ * Licensed under GPL and MIT. */
+
+@import "compass/reset";
+@import "compass";
+@import "960/grid";
+
+body,html {
+height:100%;
+}
+
+$ninesixty-grid-width: 1265px;
+$ninesixty-columns: 5;
+$ninesixty-gutter-width: 0;
+// The following generates the default grids provided by the css version of 960.gs
+.paint1{ 
+				@include grid(1);
+				float:left;
+				position:relative;
+
+				
+		
+		}
+.row {
+  min-width: auto;
+ 
+}
+.filterscontainer {
+&.abso {position:fixed;top:0;width:100%;background-color:#fff;z-index:80;padding-right:30px;
+ @include box-shadow(#999 0px 0px 10px); }
+padding-right:0px;box-sizing:border-sizing
+
+	ul.nav-bar {
+	border:1px solid #999;
+	box-sizing:border-box
+	}
+	
+}
+
+#filtersTop {
+width:100%;
+display:inline-block;
+text-align:center;
+clear:both;
+	.twelve {
+	display:inline-block;
+		.filt {
+			display:inline-block;
+			float:none;
+		}
+	}
+
+	.nav-bar{
+		background-color:#fff;
+			.category-children  {
+				display:none;z-index:98;
+				
+			}
+		.nivCat{
+			position:relative;
+			&:hover {
+				.category-children  {
+					display:block;
+					position:absolute;
+					width:200px;
+					text-align:left;
+					left:50%;
+					top:0px;
+					z-index:98;
+					margin:0;padding:0;
+					background-color:#000;padding:1px;
+					@include box-shadow(0 0 4px #000); 
+					a {font-size:0.8em;}
+					li { background-color:#121519;
+						border-color:#000;
+						a {color:#fff;
+						border:0px;
+						background-color:#121519;
+						&:hover {color:#121519;
+						background-color:#FFF;
+						}
+						}
+					}
+				}
+			}
+			
+			&#painting_node {
+				&:hover {
+					.category-children  {
+					
+					top:-100px;
+					
+					
+					}
+				}
+			}
+		}
+			
+	}
+	
+	ul > li{ 
+	width:100%; 
+	border-top: none;
+	border-left: none;
+	border-right: none;
+	border-bottom:1px #ccc solid;
+		&.has-dropdown { 
+		a {font-size:12px;height:auto;line-height:22px;text-transform:uppercase;
+			&:hover {color:#fff;}
+			}
+			.dropdown {
+				background:#fff;
+					li {
+					background:#000;
+						a {color:#fff;&:hover {color:#121212;}}
+					}
+			}
+		}
+	}
+
+	
+	.paint1 {
+		display:inline-block;
+		float:none;
+	}
+}
+
+#globalContainer {
+
+margin-bottom:40px;
+
+}
+
+  #topZone .mCSB_scrollTools .mCSB_draggerContainer { 
+
+  }
+  
+  
+			
+#works_container {
+margin-bottom:140px;
+  
+  .workDetail {
+	.infos_gal_cms {
+	background-color:#fff;
+	color:#000;
+	margin:0 12px 8px 0;
+	border:1px #ccc solid;
+	padding:12px;
+	width:auto;
+-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+	}
+  }
+/* paint_box */
+
+	.item {
+		margin:4px;
+		border-top:1px solid #dedede;
+		padding-top:4px;
+		font-family:"Cinzel",georgia,sherif;
+			h1,h2,h3,h4,h5 ,p {
+					margin:6px;
+				}
+	}
+	.nextpageBlock {
+		width:100%;
+	}
+	
+	.paint1{ 
+				@include grid(1);
+				float:left;
+				position:relative;
+
+				
+		
+		}
+	.paint2{ 
+				@include grid(2);
+				float:left;
+				position:relative;
+
+				
+		
+		}
+	.paint3{ 
+				@include grid(3);
+				float:left;
+				position:relative;
+
+				
+		
+		}
+	.videoRessource  {
+		.video-stream {visibility:hidden;display:none;
+			embed ,object{
+			height:auto;
+			width:100%;		
+			}
+		}
+		&.large{ 
+			.img_gal {
+			display:none;
+			}
+		}
+	}
+	.large{ 
+				@include grid(3);
+				float:left;
+				position:relative;
+				max-width:100%;
+				margin-top:24px;
+				margin-bottom:24px;
+				.img_gal {
+				margin:0px;
+				float:left;
+					img{margin-right:13px;}
+				}
+				
+				.video-stream {visibility:visible;display:block;}
+				.video-thumb {display:none;}
+		.infosub {
+			.infomore {display:block;color:#c6602e;margin:12px 8px; * {color:#c6602e;margin-left:0px;margin-right:0px;} }
+			position:relative;
+			float:left;
+			}
+		
+		}
+		
+		
+			.large {
+	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+	box-sizing: border-box; 
+		.galery_thumb {
+				@include box-shadow(0 0 4px #666); 
+		}
+		}
+		
+		
+		
+
+	.img_gal {margin-right:13px;max-width:100%; img {width:100%;max-width:100%;} }
+	.galery_thumb {margin-bottom:5px;margin-top:4px;width:240px;}
+	.infosub {			padding:0px 0;
+				border-bottom:1px solid #DDD;
+		position:absolute;
+		width:240px;
+		bottom:0px;
+		background: url(images/trans.png) repeat;
+		h5 {
+		margin-top:0;
+		margin-bottom:5px;
+		font-size:20px;
+		@include text-shadow(0 0 2px #BBBBBB);
+		font-weight: bold;
+		}
+		p {margin-bottom:0px;color:#202221;line-height:1;}
+		.section {
+			margin: 8px;
+			}
+		.infomore {display:none;}
+	
+	}
+	.nextpageBlock {
+		div{
+			margin:0px;
+			a {
+			text-transform:uppercase;
+			display:block;
+			width:100%;
+			font-size:21px;
+			span {margin:8px;line-height:3} 
+			}
+			
+		}
+		
+	}
+	
+}
+
+#works_container .videoRessource  .large .infosub {width:100%;}
+
+
+/***** Isotope filter *****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+// But most compass users prefer to construct semantic layouts like so (two column layout with header and footer):
+
+.signature {margin:0.5em;}
+.copyright {margin:1.5em;}
+
+.two-column {
+  @include grid-container;
+  #header, #footer {
+    @include grid(24);
+  }
+  #sidebar {
+    @include grid(8);
+  }
+  #main-content {
+    @include grid(16);
+  }
+}

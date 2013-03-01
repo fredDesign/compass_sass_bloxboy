@@ -1,0 +1,524 @@
+/* line 218, icon/*.png */
+.icon-sprite, .icon-arrow_left, .icon-arrow_right, .icon-bigarrow_left, .icon-bigarrow_right, .icon-bigicon-s2495372ad1_20, .icon-blog, .icon-contact, .icon-dot_left, .icon-dot_off, .icon-dot_on, .icon-dot_right, .icon-facebook, .icon-folder, .icon-google, .icon-home, .icon-key, .icon-plusone, .icon-rss-ico, .icon-twitter, .icon-vimeo, .icon-youtube, h1 span {
+  background: url('images/icon-sc51f1f8e4f.png') no-repeat;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-arrow_left {
+  background-position: 0 -614px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-arrow_right {
+  background-position: 0 -609px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-bigarrow_left {
+  background-position: 0 -179px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-bigarrow_right {
+  background-position: 0 -112px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-bigicon-s2495372ad1_20 {
+  background-position: 0 -332px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-blog {
+  background-position: 0 -92px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-contact {
+  background-position: 0 0;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_left {
+  background-position: 0 -403px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_off {
+  background-position: 0 -272px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_on {
+  background-position: 0 -246px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_right {
+  background-position: 0 -373px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-facebook {
+  background-position: 0 -569px;
+}
+/* line 43, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-facebook:hover, .icon-facebook.facebook_hover, .icon-facebook.facebook-hover {
+  background-position: 0 -589px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-folder {
+  background-position: 0 -433px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-google {
+  background-position: 0 -493px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-home {
+  background-position: 0 -553px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-key {
+  background-position: 0 -315px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-plusone {
+  background-position: 0 -353px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-rss-ico {
+  background-position: 0 -298px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-twitter {
+  background-position: 0 -453px;
+}
+/* line 43, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-twitter:hover, .icon-twitter.twitter_hover, .icon-twitter.twitter-hover {
+  background-position: 0 -473px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-vimeo {
+  background-position: 0 -513px;
+}
+
+/* line 60, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-youtube {
+  background-position: 0 -533px;
+}
+
+/* line 9, ../sass/styles.scss */
+body {
+  overflow: hidden;
+  background-image: url(images/backgrounds/back_gen.png);
+  background-position: top center;
+}
+
+/* line 15, ../sass/styles.scss */
+#header {
+  text-align: center;
+}
+
+/* line 19, ../sass/styles.scss */
+h1 {
+  margin-bottom: 1em;
+}
+/* line 20, ../sass/styles.scss */
+h1 strong {
+  color: #000;
+}
+/* line 22, ../sass/styles.scss */
+h1 span {
+  background-position: 0 0;
+  height: 112px;
+  width: 92px;
+  background-repeat: no-repeat;
+  height: 92px;
+  width: 80px;
+  display: block;
+  background-repeat: no-repeat;
+  float: left;
+  left: -50px;
+  position: absolute;
+}
+
+/* line 33, ../sass/styles.scss */
+.logo {
+  text-indent: -119988px;
+  overflow: hidden;
+  text-align: left;
+  background-image: url('images/logo.png?1362056758');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 100px;
+  height: 192px;
+  display: inline-block;
+}
+
+/* line 37, ../sass/styles.scss */
+#radial-gradient {
+  background-image: -webkit-gradient(radial, 45px 45px, 0, 45px 45px, 30, color-stop(33.33333%, #00ffff), color-stop(100%, #1e90ff));
+  background-image: -webkit-radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+  background-image: -moz-radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+  background-image: -o-radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+  background-image: radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+}
+
+/* line 40, ../sass/styles.scss */
+#works_container {
+  margin: 0 auto 0px;
+}
+
+/* line 43, ../sass/styles.scss */
+#total_footer {
+  background: #1e1e1e;
+  opacity: 0.95;
+}
+
+/* line 48, ../sass/styles.scss */
+#total_footer {
+  background: #1e1e1e;
+  height: 125px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 60;
+  opacity: 0.95;
+}
+
+/* line 58, ../sass/styles.scss */
+#total_footer_nav {
+  text-align: center;
+  background: #030303;
+  height: 74px;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  -webkit-box-shadow: 0 0 12px #333333;
+  -moz-box-shadow: 0 0 12px #333333;
+  box-shadow: 0 0 12px #333333;
+}
+
+/* line 68, ../sass/styles.scss */
+.marke {
+  font-size: 16px;
+  text-align: center;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  text-transform: uppercase;
+  background-color: #1e1e1e;
+  letter-spacing: 1px;
+}
+/* line 76, ../sass/styles.scss */
+.marke a {
+  color: white;
+}
+
+/* line 82, ../sass/styles.scss */
+.margin2 {
+  margin: 2em;
+}
+
+/* line 86, ../sass/styles.scss */
+#contact_form_block {
+  background-color: #f7f7f7;
+  -webkit-box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+  -moz-box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+  box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+}
+/* line 87, ../sass/styles.scss */
+#contact_form_block label {
+  position: relative;
+  left: 12px;
+}
+/* line 90, ../sass/styles.scss */
+#contact_form_block select {
+  margin: 0.5em;
+}
+/* line 95, ../sass/styles.scss */
+#contact_form_block .text p {
+  font-family: "Cinzel","Georgia",serif;
+  font-size: 1.4em;
+  line-height: 1.2em;
+  margin-bottom: 1em;
+}
+/* line 105, ../sass/styles.scss */
+#contact_form_block #contact_form {
+  border-left: 1px solid #ccc;
+  padding: 1.5em;
+  display: inline-block;
+  margin-bottom: 0px;
+}
+/* line 106, ../sass/styles.scss */
+#contact_form_block p {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  margin: 00px;
+}
+/* line 107, ../sass/styles.scss */
+#contact_form_block p:focus label {
+  color: #fff;
+}
+/* line 108, ../sass/styles.scss */
+#contact_form_block p select, #contact_form_block p input {
+  width: 100%;
+  height: 24px;
+}
+/* line 113, ../sass/styles.scss */
+#contact_form_block p #optin_newsletter {
+  width: 10%;
+  position: absolute;
+  margin: 0;
+  right: 0px;
+  top: 0px;
+}
+/* line 114, ../sass/styles.scss */
+#contact_form_block p textarea {
+  width: 100%;
+  margin: 8px;
+}
+/* line 116, ../sass/styles.scss */
+#contact_form_block p input {
+  margin: 0.5em;
+}
+
+/* line 121, ../sass/styles.scss */
+p img {
+  vertical-align: top;
+  float: left;
+  margin: 0.5em 1em 0.5em 0;
+}
+
+/* line 127, ../sass/styles.scss */
+input:focus, textarea:focus {
+  color: #fff;
+}
+
+@media all and (max-width: 768px) {
+  /* line 131, ../sass/styles.scss */
+  h1 {
+    font-size: 18px;
+  }
+
+  /* line 134, ../sass/styles.scss */
+  h2 {
+    font-size: 16px;
+  }
+}
+/* line 141, ../sass/styles.scss */
+.entry-image a {
+  border: none;
+}
+
+@media only screen and (max-width: 1279px) and (min-width: 768px) {
+  /* line 144, ../sass/styles.scss */
+  .archive .row .one {
+    width: 0;
+  }
+  /* line 145, ../sass/styles.scss */
+  .archive .row .ten {
+    width: 100%;
+  }
+}
+@media all and (min-width: 769px) {
+  /* line 150, ../sass/styles.scss */
+  #entry_container .hentry {
+    width: 48%;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  /* line 151, ../sass/styles.scss */
+  #entry_container .hentry .entry-image {
+    width: 50%;
+  }
+  /* line 152, ../sass/styles.scss */
+  #entry_container .hentry .entry-body {
+    width: 100%;
+    clear: none;
+  }
+
+  /* line 155, ../sass/styles.scss */
+  .top-bar ul.nav_title {
+    display: none;
+  }
+}
+@media all and (max-width: 768px) {
+  /* line 161, ../sass/styles.scss */
+  #entry_container
+  .year {
+    width: 100% !important;
+  }
+
+  /* line 163, ../sass/styles.scss */
+  .default #total_footer {
+    height: 60px;
+  }
+
+  /* line 165, ../sass/styles.scss */
+  #entry_container .hentry {
+    width: 100%;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  /* line 166, ../sass/styles.scss */
+  #entry_container .newsleft {
+    text-align: left;
+  }
+
+  /* line 168, ../sass/styles.scss */
+  #total_footer_nav .ten {
+    width: 100%;
+  }
+  /* line 172, ../sass/styles.scss */
+  #total_footer_nav .ten .top-bar.invers section {
+    position: absolute;
+    bottom: 100%;
+    z-index: 90;
+  }
+}
+/*footer query */
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* Styles */
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 321px) {
+  /* Styles */
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width: 320px) {
+  /* Styles */
+}
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* Styles */
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* Styles */
+}
+/* iPads (portrait) ----------- */
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 769px) {
+  /* Styles */
+  /* line 244, ../sass/styles.scss */
+  #works_container {
+    padding-bottom: 140px;
+  }
+  /* line 245, ../sass/styles.scss */
+  #works_container .nextpageBlock {
+    z-index: 4;
+    margin-bottom: 62px;
+    margin-top: 42px;
+  }
+  /* line 245, ../sass/styles.scss */
+  #works_container .nextpageBlock:hover {
+    z_index: 92;
+  }
+
+  /* line 248, ../sass/styles.scss */
+  #total_footer {
+    -webkit-transition: height 0.3s ease-out;
+    -moz-transition: height 0.3s ease-out;
+    -o-transition: height 0.3s ease-out;
+    transition: height 0.3s ease-out;
+    padding-top: 0px;
+    height: 40px;
+    background-color: transparent;
+  }
+  /* line 253, ../sass/styles.scss */
+  #total_footer:hover {
+    height: 125px;
+    padding-top: 0;
+    -webkit-transition: height 0.3s ease-out;
+    -moz-transition: height 0.3s ease-out;
+    -o-transition: height 0.3s ease-out;
+    transition: height 0.3s ease-out;
+  }
+  /* line 257, ../sass/styles.scss */
+  #total_footer .bottomFooter {
+    background-color: #121212;
+  }
+  /* line 260, ../sass/styles.scss */
+  #total_footer #total_footer_nav {
+    height: 74px;
+    position: relative;
+    bottom: 0;
+  }
+}
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 1224px) {
+  /* Styles */
+  /* line 277, ../sass/styles.scss */
+  #total_footer {
+    padding-top: 0px;
+  }
+
+  /* line 281, ../sass/styles.scss */
+  #total_footer_nav {
+    height: 74px;
+    position: relative;
+    bottom: 0;
+  }
+}
+/* Large screens ----------- */
+@media only screen and (min-width: 1824px) {
+  /* Styles */
+}
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  /* Styles */
+}
+/* line 304, ../sass/styles.scss */
+.bottomFooter ul {
+  list-style-type: none;
+}
+/* line 5, C:/Users/surcouf/compassv1.2/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/lists/_inline-list.scss */
+.bottomFooter ul, .bottomFooter ul li {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+/* line 308, ../sass/styles.scss */
+.bottomFooter .externallinks a {
+  line-height: 24px;
+  display: block;
+  font-size: 12px;
+  float: left;
+  margin-top: 4px;
+  padding: 4px;
+  color: #fff;
+  font-family: helvetica,arial;
+  font-weight: 200;
+}
+/* line 317, ../sass/styles.scss */
+.bottomFooter .externallinks a:hover {
+  background: #000;
+}
+/* line 318, ../sass/styles.scss */
+.bottomFooter .externallinks a .icon {
+  width: 20px;
+  height: 20px;
+  margin-top: 6px;
+  display: inline-block;
+  text-indent: -3000px;
+}
+/* line 319, ../sass/styles.scss */
+.bottomFooter .externallinks a .icon-blog {
+  width: 80px;
+}
+
+/* line 324, ../sass/styles.scss */
+p a {
+  border-bottom: 1px solid #dddddd;
+}

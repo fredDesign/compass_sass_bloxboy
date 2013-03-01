@@ -1,0 +1,50 @@
+{% load tagging_tags comments i18n thumbnail%}
+{% tags_for_object ressource as tag_list %}
+  <div class="{% if ressource.video  %}videoRessource {%endif %}element  elemwork paint1 entry-image {% for tag in tag_list %}{{ tag|slugify }} {% endfor %} ">
+    {% if ressource.file_url  %}
+        {% ifequal ressource.file_type  0  %}
+        <a   href="" onclick="window.open(this.href); return false;">
+        {% else %}
+        <a    rel="{{ ressource.file_url }}">
+        {% endifequal %}
+    {% else %}
+        {% if ressource.video  %}
+		<div class="video-stream">
+			<iframe width="425" height="349" src="{{ ressource.video }}" frameborder="0" allowfullscreen></iframe>
+	    
+
+		</div>	
+        <!--<a  class="fancy iframe"  rel="bookmark" href="{{ ressource.video }}">-->
+        {% else %}
+           {% if ressource.file  %}
+              <a  class="fancy"  rel="{{ ressource.file_url }}">
+           {% else %}
+              <a  class="fancy"  rel="{{ ressource.image }}">
+           {% endif %}
+        {% endif %}
+    {% endif %}
+    
+    {% if ressource.image  %}
+	{% thumbnail ressource.image "360" crop="center" upscale="true" as small %}
+        <div class="img_gal">
+		
+{% if ressource.ressources.count %} <a href="{{ ressource.get_absolute_url }}">   {% endif %}    
+			<img src="{{ small.url }}" alt="{{ ressource.name }}"  class="left galery_thumb"  height="{{ small.height }}" width="{{ small.width }}" />
+{% if ressource.ressources.count %}  </a> {% endif %}    
+		</div>
+    {% endthumbnail %}
+	
+        {% else %}
+	{% thumbnail ressource.file "360" crop="center" upscale="true" as small %}
+        <div class="img_gal">
+        <img src="{{ small.url }}" alt="{{ ressource.name }}" class="left galery_thumb" height="{{ small.height }}" width="{{ small.width }} "/>
+		</div>
+    {% endthumbnail %}
+    {% endif %}      
+      </a>
+      
+    {% with ressource as ressource %}
+        {% include "gallery/themes/blocks/_infos.html" %}
+    {% endwith %}
+
+  </div>

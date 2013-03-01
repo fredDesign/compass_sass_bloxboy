@@ -1,0 +1,490 @@
+/* line 210, icon/*.png */
+.icon-sprite, .icon-arrow_left, .icon-arrow_right, .icon-bigarrow_left, .icon-bigarrow_right, .icon-bigicon-s2495372ad1_20, .icon-contact, .icon-dot_left, .icon-dot_off, .icon-dot_on, .icon-dot_right, .icon-facebook, .icon-folder, .icon-google, .icon-home, .icon-key, .icon-plusone, .icon-rss-ico, .icon-twitter, .icon-vimeo, .icon-youtube, h1 span {
+  background: url('images/icon-s50099a90fc.png') no-repeat;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-arrow_left {
+  background-position: 0 -594px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-arrow_right {
+  background-position: 0 -589px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-bigarrow_left {
+  background-position: 0 -159px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-bigarrow_right {
+  background-position: 0 -92px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-bigicon-s2495372ad1_20 {
+  background-position: 0 -312px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-contact {
+  background-position: 0 0;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_left {
+  background-position: 0 -383px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_off {
+  background-position: 0 -252px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_on {
+  background-position: 0 -226px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-dot_right {
+  background-position: 0 -353px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-facebook {
+  background-position: 0 -549px;
+}
+/* line 43, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-facebook:hover, .icon-facebook.facebook_hover, .icon-facebook.facebook-hover {
+  background-position: 0 -569px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-folder {
+  background-position: 0 -413px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-google {
+  background-position: 0 -473px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-home {
+  background-position: 0 -533px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-key {
+  background-position: 0 -295px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-plusone {
+  background-position: 0 -333px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-rss-ico {
+  background-position: 0 -278px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-twitter {
+  background-position: 0 -433px;
+}
+/* line 43, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-twitter:hover, .icon-twitter.twitter_hover, .icon-twitter.twitter-hover {
+  background-position: 0 -453px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-vimeo {
+  background-position: 0 -493px;
+}
+
+/* line 60, ../../../../../ressources/compass.app.windows.v1.21/compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-youtube {
+  background-position: 0 -513px;
+}
+
+/* line 9, ../sass/styles - Copie.scss */
+body {
+  overflow: hidden;
+}
+
+/* line 13, ../sass/styles - Copie.scss */
+#header {
+  text-align: center;
+}
+
+/* line 17, ../sass/styles - Copie.scss */
+h1 {
+  margin-bottom: 1em;
+}
+/* line 18, ../sass/styles - Copie.scss */
+h1 strong {
+  color: #000;
+}
+/* line 20, ../sass/styles - Copie.scss */
+h1 span {
+  background-position: 0 0;
+  height: 112px;
+  width: 92px;
+  background-repeat: no-repeat;
+  height: 92px;
+  width: 80px;
+  display: block;
+  background-repeat: no-repeat;
+  float: left;
+  left: -50px;
+  position: absolute;
+}
+
+/* line 31, ../sass/styles - Copie.scss */
+.logo {
+  text-indent: -119988px;
+  overflow: hidden;
+  text-align: left;
+  background-image: url('images/logo.png?1360752642');
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  width: 249px;
+  height: 124px;
+  display: inline-block;
+}
+
+/* line 35, ../sass/styles - Copie.scss */
+#radial-gradient {
+  background-image: -webkit-gradient(radial, 45px 45px, 0, 45px 45px, 30, color-stop(33.33333%, #00ffff), color-stop(100%, #1e90ff));
+  background-image: -webkit-radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+  background-image: -moz-radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+  background-image: -o-radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+  background-image: radial-gradient(45px 45px, #00ffff 10px, #1e90ff 30px);
+}
+
+/* line 38, ../sass/styles - Copie.scss */
+#works_container {
+  margin: 0 auto 0px;
+}
+
+/* line 41, ../sass/styles - Copie.scss */
+#total_footer {
+  background: #1e1e1e;
+  opacity: 0.95;
+}
+
+/* line 46, ../sass/styles - Copie.scss */
+#total_footer {
+  background: #1e1e1e;
+  height: 125px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  z-index: 60;
+  opacity: 0.95;
+}
+
+/* line 56, ../sass/styles - Copie.scss */
+#total_footer_nav {
+  text-align: center;
+  background: #030303;
+  height: 74px;
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  -webkit-box-shadow: 0 0 12px #333333;
+  -moz-box-shadow: 0 0 12px #333333;
+  box-shadow: 0 0 12px #333333;
+}
+
+/* line 66, ../sass/styles - Copie.scss */
+.marke {
+  font-size: 16px;
+  text-align: center;
+  padding-top: 3px;
+  padding-bottom: 2px;
+  text-transform: uppercase;
+  background-color: #1e1e1e;
+  letter-spacing: 1px;
+}
+/* line 74, ../sass/styles - Copie.scss */
+.marke a {
+  color: white;
+}
+
+/* line 80, ../sass/styles - Copie.scss */
+.margin2 {
+  margin: 2em;
+}
+
+/* line 84, ../sass/styles - Copie.scss */
+#contact_form_block {
+  background-color: #f7f7f7;
+  -webkit-box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+  -moz-box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+  box-shadow: 0 0 8px rgba(60, 60, 60, 0.4);
+}
+/* line 85, ../sass/styles - Copie.scss */
+#contact_form_block label {
+  position: relative;
+  left: 12px;
+}
+/* line 88, ../sass/styles - Copie.scss */
+#contact_form_block select {
+  margin: 0.5em;
+}
+/* line 93, ../sass/styles - Copie.scss */
+#contact_form_block .text p {
+  font-family: "Cinzel","Georgia",serif;
+  font-size: 1.4em;
+  line-height: 1.2em;
+  margin-bottom: 1em;
+}
+/* line 103, ../sass/styles - Copie.scss */
+#contact_form_block #contact_form {
+  border-left: 1px solid #cccccc;
+  padding: 1.5em;
+  display: inline-block;
+  margin-bottom: 0px;
+}
+/* line 104, ../sass/styles - Copie.scss */
+#contact_form_block p {
+  position: relative;
+  width: 100%;
+  display: inline-block;
+  margin: 00px;
+}
+/* line 105, ../sass/styles - Copie.scss */
+#contact_form_block p:focus label {
+  color: #fff;
+}
+/* line 106, ../sass/styles - Copie.scss */
+#contact_form_block p select, #contact_form_block p input {
+  width: 100%;
+  height: 24px;
+}
+/* line 111, ../sass/styles - Copie.scss */
+#contact_form_block p #optin_newsletter {
+  width: 10%;
+  position: absolute;
+  margin: 0;
+  right: 0px;
+  top: 0px;
+}
+/* line 112, ../sass/styles - Copie.scss */
+#contact_form_block p textarea {
+  width: 100%;
+  margin: 8px;
+}
+/* line 114, ../sass/styles - Copie.scss */
+#contact_form_block p input {
+  margin: 0.5em;
+}
+
+/* line 119, ../sass/styles - Copie.scss */
+p img {
+  vertical-align: top;
+  float: left;
+  margin: 0.5em 1em 0.5em 0;
+}
+
+/* line 125, ../sass/styles - Copie.scss */
+input:focus, textarea:focus {
+  color: #fff;
+}
+
+@media all and (max-width: 768px) {
+  /* line 129, ../sass/styles - Copie.scss */
+  h1 {
+    font-size: 18px;
+  }
+
+  /* line 132, ../sass/styles - Copie.scss */
+  h2 {
+    font-size: 16px;
+  }
+}
+/* line 139, ../sass/styles - Copie.scss */
+.entry-image a {
+  border: none;
+}
+
+@media only screen and (max-width: 1279px) and (min-width: 768px) {
+  /* line 142, ../sass/styles - Copie.scss */
+  .archive .row .one {
+    width: 0;
+  }
+  /* line 143, ../sass/styles - Copie.scss */
+  .archive .row .ten {
+    width: 100%;
+  }
+}
+@media all and (min-width: 769px) {
+  /* line 148, ../sass/styles - Copie.scss */
+  #entry_container .hentry {
+    width: 48%;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  /* line 149, ../sass/styles - Copie.scss */
+  #entry_container .hentry .entry-image {
+    width: 50%;
+  }
+  /* line 150, ../sass/styles - Copie.scss */
+  #entry_container .hentry .entry-body {
+    width: 50%;
+    clear: none;
+  }
+
+  /* line 153, ../sass/styles - Copie.scss */
+  .top-bar ul.nav_title {
+    display: none;
+  }
+}
+@media all and (max-width: 768px) {
+  /* line 159, ../sass/styles - Copie.scss */
+  #entry_container
+  .year {
+    width: 100% !important;
+  }
+
+  /* line 161, ../sass/styles - Copie.scss */
+  .default #total_footer {
+    height: 60px;
+  }
+
+  /* line 163, ../sass/styles - Copie.scss */
+  #entry_container .hentry {
+    width: 100%;
+    padding: 2%;
+    box-sizing: border-box;
+  }
+  /* line 164, ../sass/styles - Copie.scss */
+  #entry_container .newsleft {
+    text-align: left;
+  }
+
+  /* line 166, ../sass/styles - Copie.scss */
+  #total_footer_nav .ten {
+    width: 100%;
+  }
+  /* line 170, ../sass/styles - Copie.scss */
+  #total_footer_nav .ten .top-bar.invers section {
+    position: absolute;
+    bottom: 100%;
+    z-index: 90;
+  }
+}
+/*footer query */
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  /* Styles */
+}
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width: 321px) {
+  /* Styles */
+}
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width: 320px) {
+  /* Styles */
+}
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+  /* Styles */
+}
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+  /* Styles */
+}
+/* iPads (portrait) ----------- */
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 769px) {
+  /* Styles */
+  /* line 242, ../sass/styles - Copie.scss */
+  #works_container {
+    padding-bottom: 140px;
+  }
+  /* line 243, ../sass/styles - Copie.scss */
+  #works_container .nextpageBlock {
+    z-index: 4;
+    margin-bottom: 62px;
+    margin-top: 42px;
+  }
+  /* line 243, ../sass/styles - Copie.scss */
+  #works_container .nextpageBlock:hover {
+    z_index: 92;
+  }
+
+  /* line 246, ../sass/styles - Copie.scss */
+  #total_footer {
+    -webkit-transition: padding-top 0.3s ease-in;
+    -moz-transition: padding-top 0.3s ease-in;
+    -o-transition: padding-top 0.3s ease-in;
+    transition: padding-top 0.3s ease-in;
+    padding-top: 84px;
+    height: 90px;
+    background-color: transparent;
+  }
+  /* line 251, ../sass/styles - Copie.scss */
+  #total_footer:hover {
+    height: 125px;
+    padding-top: 0;
+    -webkit-transition: height 0.3s ease-out;
+    -moz-transition: height 0.3s ease-out;
+    -o-transition: height 0.3s ease-out;
+    transition: height 0.3s ease-out;
+    -webkit-transition: padding-top 0.5s ease-in;
+    -moz-transition: padding-top 0.5s ease-in;
+    -o-transition: padding-top 0.5s ease-in;
+    transition: padding-top 0.5s ease-in;
+  }
+  /* line 256, ../sass/styles - Copie.scss */
+  #total_footer .bottomFooter {
+    background-color: #121212;
+  }
+  /* line 258, ../sass/styles - Copie.scss */
+  #total_footer #total_footer_nav {
+    height: 74px;
+    position: relative;
+    bottom: 0;
+  }
+}
+/* line 266, ../sass/styles - Copie.scss */
+.bottomFooter {
+  background-color: #121212;
+  background-color: #121212;
+  float: left;
+  width: 100%;
+}
+
+/* Desktops and laptops ----------- */
+@media only screen and (min-width: 1224px) {
+  /* Styles */
+  /* line 280, ../sass/styles - Copie.scss */
+  #total_footer {
+    padding-top: 125px;
+  }
+
+  /* line 284, ../sass/styles - Copie.scss */
+  #total_footer_nav {
+    height: 74px;
+    position: relative;
+    bottom: 0;
+  }
+}
+/* Large screens ----------- */
+@media only screen and (min-width: 1824px) {
+  /* Styles */
+}
+/* iPhone 4 ----------- */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  /* Styles */
+}
+/* line 305, ../sass/styles - Copie.scss */
+p a {
+  border-bottom: 1px solid #dddddd;
+}
