@@ -17,7 +17,7 @@ text-align:center;
 }
 
 h1 {
-strong {color:#000;}
+strong {color:#239CD3;}
 margin-bottom:1em;
 span {@include icon-sprite(contact);height:112px;width:92px;background-repeat:no-repeat;
 height: 92px;
@@ -27,7 +27,23 @@ background-repeat: no-repeat;
 float: left;
 left: -50px;
 position: absolute;
+&.fix {
+font-size : 42px;
+}
 }  
+
+}
+
+h2 {
+&.fix {
+font-size : 36px;
+}
+&.homeTitle {
+	text-transform:uppercase;
+	font-family:'GeoBold';
+	text-align:center;
+	font-size:36px;
+	}
 }
 
 .logo {
