@@ -2,7 +2,7 @@
  * Learn more ~ http://960.gs/
  * *
  * Licensed under GPL and MIT. */
-/* line 17, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -24,45 +24,45 @@ time, mark, audio, video {
   vertical-align: baseline;
 }
 
-/* line 22, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1;
 }
 
-/* line 24, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none;
 }
 
-/* line 26, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-/* line 28, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-/* line 30, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none;
 }
-/* line 103, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 103, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-/* line 32, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none;
 }
 
-/* line 116, ../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../compass.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block;
 }
@@ -107,7 +107,7 @@ body, html {
 /* line 35, ../../sass/pixelgrid/pixelgrid.scss */
 .filterscontainer box-sizing:border-sizing
 ul.nav-bar {
-  border: 1px solid #999999;
+  border: 1px solid #999;
   box-sizing: border-box;
 }
 
@@ -187,7 +187,7 @@ ul.nav-bar {
   border-top: none;
   border-left: none;
   border-right: none;
-  border-bottom: 1px #cccccc solid;
+  border-bottom: 1px #ccc solid;
 }
 /* line 110, ../../sass/pixelgrid/pixelgrid.scss */
 #filtersTop ul > li.has-dropdown a {
@@ -224,12 +224,12 @@ ul.nav-bar {
 
 /* line 130, ../../sass/pixelgrid/pixelgrid.scss */
 #globalContainer {
-  margin-bottom: 40px;
+  margin-top: 0px;
 }
 
 /* line 142, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container {
-  margin-bottom: 140px;
+  top: 80px;
   /* paint_box */
 }
 /* line 146, ../../sass/pixelgrid/pixelgrid.scss */
@@ -237,7 +237,7 @@ ul.nav-bar {
   background-color: #fff;
   color: #000;
   margin: 0 12px 8px 0;
-  border: 1px #cccccc solid;
+  border: 1px #ccc solid;
   padding: 12px;
   width: auto;
   -webkit-box-sizing: border-box;
@@ -249,19 +249,18 @@ ul.nav-bar {
 /* line 160, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .item {
   margin: 4px;
-  border-top: 1px solid #dedede;
   padding-top: 4px;
   font-family: "Cinzel",georgia,sherif;
 }
-/* line 165, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 164, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .item h1, #works_container .item h2, #works_container .item h3, #works_container .item h4, #works_container .item h5, #works_container .item p {
   margin: 6px;
 }
-/* line 169, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 168, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .nextpageBlock {
   width: 100%;
 }
-/* line 173, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 172, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .paint1 {
   display: inline;
   float: left;
@@ -271,7 +270,7 @@ ul.nav-bar {
   float: left;
   position: relative;
 }
-/* line 181, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 180, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .paint2 {
   display: inline;
   float: left;
@@ -281,7 +280,7 @@ ul.nav-bar {
   float: left;
   position: relative;
 }
-/* line 189, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 188, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .paint3 {
   display: inline;
   float: left;
@@ -291,21 +290,21 @@ ul.nav-bar {
   float: left;
   position: relative;
 }
-/* line 198, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 197, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .videoRessource .video-stream {
   visibility: hidden;
   display: none;
 }
-/* line 199, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 198, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .videoRessource .video-stream embed, #works_container .videoRessource .video-stream object {
   height: auto;
   width: 100%;
 }
-/* line 205, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 204, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .videoRessource.large .img_gal {
   display: none;
 }
-/* line 210, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 209, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large {
   display: inline;
   float: left;
@@ -318,42 +317,42 @@ ul.nav-bar {
   margin-top: 24px;
   margin-bottom: 24px;
 }
-/* line 217, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 216, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .img_gal {
   margin: 0px;
   float: left;
 }
-/* line 220, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 219, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .img_gal img {
   margin-right: 13px;
 }
-/* line 223, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 222, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .video-stream {
   visibility: visible;
   display: block;
 }
-/* line 224, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 223, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .video-thumb {
   display: none;
 }
-/* line 225, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 224, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .infosub {
   position: relative;
   float: left;
 }
-/* line 226, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 225, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .infosub .infomore {
   display: block;
   color: #c6602e;
   margin: 12px 8px;
 }
-/* line 226, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 225, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .infosub .infomore * {
   color: #c6602e;
   margin-left: 0px;
   margin-right: 0px;
 }
-/* line 234, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 233, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large {
   -webkit-box-sizing: border-box;
   /* Safari/Chrome, other WebKit */
@@ -361,38 +360,38 @@ ul.nav-bar {
   /* Firefox, other Gecko */
   box-sizing: border-box;
 }
-/* line 238, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 237, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .large .galery_thumb {
   -webkit-box-shadow: 0 0 4px #666666;
   -moz-box-shadow: 0 0 4px #666666;
   box-shadow: 0 0 4px #666666;
 }
-/* line 246, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 245, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .img_gal {
   margin-right: 13px;
   max-width: 100%;
 }
-/* line 246, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 245, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .img_gal img {
   width: 100%;
   max-width: 100%;
 }
-/* line 247, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 246, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .galery_thumb {
   margin-bottom: 5px;
   margin-top: 4px;
   width: 240px;
 }
-/* line 248, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 247, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .infosub {
   padding: 0px 0;
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #DDD;
   position: absolute;
   width: 240px;
   bottom: 0px;
   background: url(images/trans.png) repeat;
 }
-/* line 254, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 253, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .infosub h5 {
   margin-top: 0;
   margin-bottom: 5px;
@@ -400,71 +399,71 @@ ul.nav-bar {
   text-shadow: 0 0 2px #bbbbbb;
   font-weight: bold;
 }
-/* line 261, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 260, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .infosub p {
   margin-bottom: 0px;
   color: #202221;
   line-height: 1;
 }
-/* line 262, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 261, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .infosub .section {
   margin: 8px;
 }
-/* line 265, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 264, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .infosub .infomore {
   display: none;
 }
-/* line 269, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 268, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .nextpageBlock div {
   margin: 0px;
 }
-/* line 271, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 270, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .nextpageBlock div a {
   text-transform: uppercase;
   display: block;
   width: 100%;
   font-size: 21px;
 }
-/* line 276, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 275, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .nextpageBlock div a span {
   margin: 8px;
   line-height: 3;
 }
 
-/* line 285, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 284, ../../sass/pixelgrid/pixelgrid.scss */
 #works_container .videoRessource .large .infosub {
   width: 100%;
 }
 
 /***** Isotope filter *****/
-/* line 290, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 289, ../../sass/pixelgrid/pixelgrid.scss */
 .isotope-item {
   z-index: 2;
 }
 
-/* line 294, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 293, ../../sass/pixelgrid/pixelgrid.scss */
 .isotope-hidden.isotope-item {
   pointer-events: none;
   z-index: 1;
 }
 
-/* line 301, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 300, ../../sass/pixelgrid/pixelgrid.scss */
 .signature {
   margin: 0.5em;
 }
 
-/* line 302, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 301, ../../sass/pixelgrid/pixelgrid.scss */
 .copyright {
   margin: 1.5em;
 }
 
-/* line 304, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 303, ../../sass/pixelgrid/pixelgrid.scss */
 .two-column {
   margin-left: auto;
   margin-right: auto;
   width: 1265px;
 }
-/* line 306, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 305, ../../sass/pixelgrid/pixelgrid.scss */
 .two-column #header, .two-column #footer {
   display: inline;
   float: left;
@@ -472,7 +471,7 @@ ul.nav-bar {
   margin-right: 0;
   width: 6072px;
 }
-/* line 309, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 308, ../../sass/pixelgrid/pixelgrid.scss */
 .two-column #sidebar {
   display: inline;
   float: left;
@@ -480,7 +479,7 @@ ul.nav-bar {
   margin-right: 0;
   width: 2024px;
 }
-/* line 312, ../../sass/pixelgrid/pixelgrid.scss */
+/* line 311, ../../sass/pixelgrid/pixelgrid.scss */
 .two-column #main-content {
   display: inline;
   float: left;

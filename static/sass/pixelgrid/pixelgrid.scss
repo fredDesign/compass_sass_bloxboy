@@ -129,7 +129,7 @@ clear:both;
 
 #globalContainer {
 
-margin-bottom:40px;
+margin-top:0px;
 
 }
 
@@ -140,7 +140,7 @@ margin-bottom:40px;
   
 			
 #works_container {
-margin-bottom:140px;
+top:80px;
   
   .workDetail {
 	.infos_gal_cms {
@@ -159,7 +159,6 @@ margin-bottom:140px;
 
 	.item {
 		margin:4px;
-		border-top:1px solid #dedede;
 		padding-top:4px;
 		font-family:"Cinzel",georgia,sherif;
 			h1,h2,h3,h4,h5 ,p {
