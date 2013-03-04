@@ -488,6 +488,11 @@ ul.nav-bar {
   width: 4048px;
 }
 
+/* line 317, ../sass/pixelgrid/pixelgrid.scss */
+#thirdContainer #logos_container {
+  display: inline-block;
+}
+
 /* line 11, ../sass/app.scss */
 .pie-element {
   behavior: url("PIE.htc");
