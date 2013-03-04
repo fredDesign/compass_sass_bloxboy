@@ -491,4 +491,9 @@ ul.nav-bar {
 /* line 317, ../../sass/pixelgrid/pixelgrid.scss */
 #thirdContainer #logos_container {
   display: inline-block;
+  text-align: center;
+}
+/* line 320, ../../sass/pixelgrid/pixelgrid.scss */
+#thirdContainer #logos_container .img_gal {
+  display: inline-block;
 }
