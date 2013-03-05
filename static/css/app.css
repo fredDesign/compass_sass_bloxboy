@@ -494,7 +494,8 @@ ul.nav-bar {
   text-align: center;
 }
 /* line 320, ../sass/pixelgrid/pixelgrid.scss */
-#thirdContainer #logos_container .img_gal {
+#thirdContainer #logos_container .elem_gal {
+  float: none;
   display: inline-block;
 }
 
@@ -9310,7 +9311,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 151, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers ul > li {
-  font-family: "EB Garamond", "Arapey", serif;
+  font-family: "GeoBold", "Arapey", serif;
 }
 /* line 152, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers ul > li a:not(.button) {
