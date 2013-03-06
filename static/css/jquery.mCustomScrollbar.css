@@ -137,14 +137,14 @@
 	opacity:1;
 }
 .mCSB_scrollTools .mCSB_draggerRail{
-	background:#000; /* rgba fallback */
+	background:#FFFFFF; /* rgba fallback */
 	background:rgba(0,0,0,0.9);
 	width:16px;
 	filter:"alpha(opacity=40)"; -ms-filter:"alpha(opacity=40)"; /* old ie */
 }
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
 
-	background-color:#239cd3;
+	background-color:#FFFFFF;
 	filter:"alpha(opacity=75)"; -ms-filter:"alpha(opacity=75)"; /* old ie */
 }
 .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar{
