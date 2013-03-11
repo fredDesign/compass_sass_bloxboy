@@ -155,7 +155,7 @@
 	        $container.isotope('reLayout');
 			$filterscontainer=$('.filterscontainer');
 			var windowHeight = $(window).height(); //retrieve current window height
-                            
+                        mcs='$("#topZone")';    
 			$("#topZone").mCustomScrollbar({
 				enable:true,
 				mouseWheelPixels: 120,
@@ -168,9 +168,10 @@
 				},
 				callbacks:{
 								whileScrolling:function(){
-					if ( Math.abs($('#topZone .mCSB_container').offset().top) > 200) {
-						$('.filterscontainer').addClass('abso')
-					} else {$('.filterscontainer').removeClass('abso') }
+								$('#cubes').css('top', (Math.abs($('#topZone .mCSB_container').offset().top)/2)+40) ;
+				
+					
+					
 				  },
 				  onScroll:function(){
 					if ( Math.abs($('#topZone .mCSB_container').offset().top) > 200) {

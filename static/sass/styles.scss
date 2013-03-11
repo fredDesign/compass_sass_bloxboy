@@ -3,6 +3,9 @@
 @import "compass";
 @import "compass/utilities/general/tag-cloud";
 
+@import "recipes/shadow/drop";
+@import "recipes/shadow/top-edge";
+
 @import "icon/*.png";
 @include all-icon-sprites;
 
@@ -161,8 +164,10 @@ input,textarea {&:focus {color:#fff;}}
 
 .circle {
 margin:auto;
+margin-bottom:40px;
 font-family:'GeoBold';
 @include border-radius(500px);
+@include drop-shadow-raised(26px);
 background-color:#000;
 border-top:#666 1px solid;
 text-align:center;
