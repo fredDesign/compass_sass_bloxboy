@@ -227,7 +227,20 @@ text-align:center;
   }
   
   
+   /*larger circle query */
   
+  
+  /* Smartphones (portrait and landscape) ----------- */
+@media only screen 
+and (min-width : 544px) 
+and (max-width : 806px) {
+/* Styles */
+#works_container .larger {width:506px;}
+}
+
+
+
+ 
   /*footer query */
   
   
