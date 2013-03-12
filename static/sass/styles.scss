@@ -38,13 +38,18 @@ font-size : 42px;
  
 }
 }  
-
+&#bloxboy_logo { margin-bottom:80px;}
 }
 
 
 h2 {
 &.fix {
-font-size : 36px;
+font-size: 36px;
+position: absolute;
+top: 200px;
+width: 100%;
+left: 0;
+z-index: -50;
 }
 &.homeTitle {
 	text-transform:uppercase;
@@ -178,6 +183,27 @@ text-align:center;
 		}
 	&:hover{background-color:#113;}
 }
+
+.lozange {
+margin:auto;
+margin-bottom:40px;
+margin-top:30px;
+font-family:'GeoMedium';
+@include rotate(45deg); 
+@include drop-shadow-raised(26px);
+background-color:#333;
+border:#ccc 1px solid;
+text-align:center;
+	&.big {height:150px;width:150px;display:table}
+	span {display:table-cell;color:#FFF;vertical-align:middle;
+	@include rotate(-45deg); 
+		&:before{content:'';line-height:100%};
+	@include text-shadow(0 0 2px #000);
+		
+		}
+	&:hover{background-color:#113;}
+}
+
 
 .entry-image a {border:none;}
 @media only screen and (max-width: 1279px) and (min-width: 768px) {

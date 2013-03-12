@@ -157,11 +157,20 @@ top:80px;
 /* paint_box */
 
 	.item {
-		margin:4px;
+		
 		padding-top:4px;
 		font-family:"Cinzel",georgia,sherif;
 			h1,h2,h3,h4,h5 ,p {
 					margin:6px;
+				}
+			h2{
+					margin:0px;
+					position: absolute;
+					z-index:50;
+					top:46px;
+					width:100%;
+					color:#239cd3;
+					@include text-shadow(0 0 2px #000);
 				}
 	}
 	.nextpageBlock {
@@ -329,9 +338,9 @@ max-width:960px;
 }
 
 #total_second > section > .center {
-background-color:#239cd3;
+background-color:#ccc;
 }
 
 #total_third > section > .center {
-background-color:#239cd3; 
+background-color:#ccc; 
 }
