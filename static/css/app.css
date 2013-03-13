@@ -2908,7 +2908,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 46, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .top-bar ul > li a:not(.button) {
-  color: #b9b9b9;
+  color: white;
   display: block;
   font-size: 18px;
   font-weight: 200;
@@ -2922,7 +2922,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 49, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .top-bar ul > li:not(.name):hover a, .top-bar ul > li:not(.name).active a {
-  color: #939393;
+  color: #d9d9d9;
 }
 /* line 54, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .top-bar ul > li.divider {
@@ -3154,7 +3154,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 /* IE8 Fixes */
 /* line 132, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar ul li a {
-  color: #b9b9b9;
+  color: white;
   display: block;
   font-weight: 200;
   font-size: 18px;
@@ -3170,7 +3170,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 134, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar ul li a:hover {
-  color: #868686;
+  color: #cccccc;
 }
 /* line 135, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar ul li a img {
@@ -3180,7 +3180,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 /* line 136, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar ul li a.active {
   background: #f2f2f2;
-  color: #939393;
+  color: #d9d9d9;
 }
 
 /* line 138, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_topbar.scss */
@@ -6382,7 +6382,7 @@ table.hide-for-medium {
   }
   /* line 368, ../../../../../compassv1.2/compass.app/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss/foundation/components/modules/_mqueries.scss */
   .top-bar ul > li.name h1 a {
-    color: #b9b9b9;
+    color: white;
     display: block;
     line-height: 45px !important;
     padding-left: 15px;
@@ -9026,7 +9026,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 51, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar ul > li a:not(.button) {
-  color: #b9b9b9;
+  color: white;
   display: block;
   font-size: 18px;
   font-weight: 200;
@@ -9040,7 +9040,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 54, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar ul > li:not(.name):hover a, .top-bar ul > li:not(.name).active a, .top-bar ul > li:not(.name):focus a {
-  color: #939393;
+  color: #d9d9d9;
 }
 /* line 59, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar ul > li.divider {
@@ -9316,7 +9316,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 139, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers {
-  background: #030303;
+  background: #1166aa;
   height: 45px;
   line-height: 45px;
   margin: 0 0 30px;
@@ -9345,7 +9345,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 /* line 152, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers ul > li a:not(.button) {
   text-align: left;
-  color: #b9b9b9;
+  color: white;
   display: block;
   font-size: 18px;
   font-weight: 200;
@@ -9355,11 +9355,11 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 }
 /* line 154, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers ul > li:not(.name):hover, .top-bar.invers ul > li:not(.name).active, .top-bar.invers ul > li:not(.name):focus {
-  background: black;
+  background: #0a3c64;
 }
 /* line 155, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers ul > li:not(.name):hover a, .top-bar.invers ul > li:not(.name).active a, .top-bar.invers ul > li:not(.name):focus a {
-  color: #939393;
+  color: #d9d9d9;
 }
 /* line 159, ../sass/foundation/components/modules/_topbar.scss */
 .top-bar.invers ul > li.has-dropdown {
@@ -9429,7 +9429,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 /* IE8 Fixes */
 /* line 190, ../sass/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar ul li a {
-  color: #b9b9b9;
+  color: white;
   display: block;
   font-weight: 200;
   font-size: 18px;
@@ -9451,7 +9451,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 
 /* line 198, ../sass/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar section > ul > li a:hover, .lt-ie9 .top-bar section > ul > li a:focus {
-  color: #868686;
+  color: #cccccc;
 }
 /* line 200, ../sass/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar section > ul > li:hover, .lt-ie9 .top-bar section > ul > li:focus {
@@ -9464,7 +9464,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a {
 /* line 202, ../sass/foundation/components/modules/_topbar.scss */
 .lt-ie9 .top-bar section > ul > li.active {
   background: #d9d9d9;
-  color: #939393;
+  color: #d9d9d9;
 }
 
 /* line 204, ../sass/foundation/components/modules/_topbar.scss */
